@@ -1,5 +1,5 @@
 torch==2.0.1
-RealESRGAN==0.3.0
+git+https://github.com/sberbank-ai/Real-ESRGAN.git
 numpy==1.25.2
 Pillow==9.2.0
 paramiko==3.3.1
